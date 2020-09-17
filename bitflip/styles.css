@@ -3,3 +3,8 @@
     max-width: 1152px;
   }
 }
+
+.top-menu {
+  padding: 1.5rem;
+  border-bottom: .1rem solid #dbdbdb;
+}
