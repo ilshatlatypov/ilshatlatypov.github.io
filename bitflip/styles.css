@@ -4,6 +4,10 @@
   }
 }
 
+.top-menu-section {
+  padding: 0 1.5rem;
+}
+
 .top-menu {
   padding: 1rem 0;
   border-bottom: .1rem solid #dbdbdb;
