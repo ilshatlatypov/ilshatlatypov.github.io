@@ -1,10 +1,42 @@
-@media screen and (min-width: 1408px) {
+@media screen and (min-width: 1216px) {
   .container {
-    max-width: 1152px;
+    max-width: 960px;
   }
 }
 
 .top-menu {
-  padding: 1.5rem;
+  padding: 1rem 0;
   border-bottom: .1rem solid #dbdbdb;
+}
+
+a {
+  color: #FF0102;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #DE0001;
+}
+
+.yt-link {
+  color: #FF0102;
+  text-decoration: none;
+}
+
+.yt-link:hover {
+  color: #DE0001;
+}
+
+html {
+  font-size: 18px;
+}
+
+body {
+  color: #566b78;
+}
+
+
+
+.circuit {
+  box-shadow: 0 0 3px rgba(0,0,0,0.5);
 }
